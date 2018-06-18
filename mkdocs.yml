@@ -1,0 +1,95 @@
+site_name: WSO2 Siddhi
+site_description: Stream Processing and Complex Event Processing Engine
+site_author: WSO2
+site_url: https://wso2.github.io/siddhi
+extra_css:
+- stylesheets/extra.css
+repo_name: WSO2 Siddhi
+repo_url: https://github.com/wso2/siddhi
+copyright: Copyright &copy; 2011 - 2017 WSO2
+extra:
+  logo: images/siddhi-logo-w.svg
+  palette:
+    primary: teal
+    accent: teal
+  social:
+  - type: github
+    link: https://github.com/wso2/siddhi
+  - type: linkedin
+    link: https://www.linkedin.com/groups/13553064
+site_favicon: images/favicon.ico
+google_analytics:
+- UA-103065-28
+- auto
+markdown_extensions:
+- admonition
+- toc(permalink=true)
+- codehilite(guess_lang=false)
+pages:
+- Welcome to WSO2 Siddhi: index.md
+- Features: features.md
+- Quick Start Guide: documentation/siddhi-quckstart-4.0.md
+- Documentation:
+  - User Guide: documentation/user-guide.md
+  - Siddhi Query Guide: documentation/siddhi-4.0.md
+  - Siddhi Architecture: documentation/siddhi-architecture.md
+- Extensions: extensions.md
+- API Docs:
+  - 4.0.0-M120: api/4.0.0-M120.md
+  - 4.0.0-M119: api/4.0.0-M119.md
+  - 4.0.0-M118: api/4.0.0-M118.md
+  - 4.0.0-M117: api/4.0.0-M117.md
+  - 4.0.0-M116: api/4.0.0-M116.md
+  - 4.0.0-M115: api/4.0.0-M115.md
+  - 4.0.0-M114: api/4.0.0-M114.md
+  - 4.0.0-M113: api/4.0.0-M113.md
+  - 4.0.0-M111: api/4.0.0-M111.md
+  - 4.0.0-M110: api/4.0.0-M110.md
+  - 4.0.0-M109: api/4.0.0-M109.md
+  - 4.0.0-M108: api/4.0.0-M108.md
+  - 4.0.0-M107: api/4.0.0-M107.md
+  - 4.0.0-M106: api/4.0.0-M106.md
+  - 4.0.0-M105: api/4.0.0-M105.md
+  - 4.0.0-M104: api/4.0.0-M104.md
+  - 4.0.0-M103: api/4.0.0-M103.md
+  - 4.0.0-M100: api/4.0.0-M100.md
+  - 4.0.0-M99: api/4.0.0-M99.md
+  - 4.0.0-M98: api/4.0.0-M98.md
+  - 4.0.0-M97: api/4.0.0-M97.md
+  - 4.0.0-M96: api/4.0.0-M96.md
+  - 4.0.0-M95: api/4.0.0-M95.md
+  - 4.0.0-M94: api/4.0.0-M94.md
+  - 4.0.0-M93: api/4.0.0-M93.md
+  - 4.0.0-M92: api/4.0.0-M92.md
+  - 4.0.0-M91: api/4.0.0-M91.md
+  - 4.0.0-M90: api/4.0.0-M90.md
+  - 4.0.0-M89: api/4.0.0-M89.md
+  - 4.0.0-M88: api/4.0.0-M88.md
+  - 4.0.0-M87: api/4.0.0-M87.md
+  - 4.0.0-M86: api/4.0.0-M86.md
+  - 4.0.0-M85: api/4.0.0-M85.md
+  - 4.0.0-M84: api/4.0.0-M84.md
+  - 4.0.0-M83: api/4.0.0-M83.md
+  - 4.0.0-M82: api/4.0.0-M82.md
+  - 4.0.0-M81: api/4.0.0-M81.md
+  - 4.0.0-M80: api/4.0.0-M80.md
+  - 4.0.0-M79: api/4.0.0-M79.md
+  - 4.0.0-alpha16: api/4.0.0-alpha16.md
+  - 4.0.0-alpha15: api/4.0.0-alpha15.md
+  - 4.0.0-alpha14: api/4.0.0-alpha14.md
+  - 4.0.0-alpha13: api/4.0.0-alpha13.md
+  - 4.0.0-alpha12: api/4.0.0-alpha12.md
+  - 4.0.0-alpha11: api/4.0.0-alpha11.md
+  - 4.0.0-alpha10: api/4.0.0-alpha10.md
+  - 4.0.0-alpha9: api/4.0.0-alpha9.md
+  - 4.0.0-alpha8: api/4.0.0-alpha8.md
+  - 4.0.0-alpha7: api/4.0.0-alpha7.md
+  - 4.0.0-alpha6: api/4.0.0-alpha6.md
+  - 4.0.0-alpha5: api/4.0.0-alpha5.md
+  - 4.0.0-alpha4: api/4.0.0-alpha4.md
+  - 4.0.0-alpha3: api/4.0.0-alpha3.md
+  - 4.0.0-alpha2: api/4.0.0-alpha2.md
+  - 4.0.0-alpha: api/4.0.0-alpha.md
+  - latest: api/latest.md
+- License: license.md
+theme: material
